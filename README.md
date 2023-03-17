@@ -1,2 +1,4 @@
 # ephemeris_api_demo
-IAU CPS SatHub Ephemeris API demonstration
+
+This repository contains a Jupyter Notebook that demonstrates the use of the
+[IAU CPS SatHub Ephemeris API](https://apexgroup.web.illinois.edu/api_documentation.html) with python. 
